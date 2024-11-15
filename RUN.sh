@@ -1,0 +1,1 @@
+python inference.py --input /input --output /output
